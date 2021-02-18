@@ -7,7 +7,8 @@
 
 
 ### Information
-
+- [Virtual Reality Technologies](https://www.nvidia.com/en-us/technologies/virtual-reality/)
+- [Augmented Reality](https://developer.nvidia.com/taxonomy/term/786)
 
 
 
