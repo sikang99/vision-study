@@ -16,3 +16,9 @@
 
 
 
+
+### Open Source
+- 2020 [Improving Performance of a Mixed Reality Applicaࢢon on the Edge with Hardware Acceleraࢢon](https://liu.diva-portal.org/smash/get/diva2:1504409/FULLTEXT01.pdf)
+- 2020 [An embedded deep learning system for augmented reality in firefighting applications](https://arxiv.org/pdf/2009.10679.pdf)
+
+
