@@ -1,4 +1,4 @@
-## Reality
+## Reality : VR, AR, MR, XR
 
 
 ### Articles
@@ -9,12 +9,13 @@
 ### Information
 - [Virtual Reality Technologies](https://www.nvidia.com/en-us/technologies/virtual-reality/)
 - [Augmented Reality](https://developer.nvidia.com/taxonomy/term/786)
+- [Virtual Reality](https://www.tfir.io/category/section/ar-vr/)
 
 
 
 ### Open Source
-
-
+- [ckorris/easi_aug](https://github.com/ckorris/easi_aug)
+- [CurvSurf/ARKitDepthFindSurfaceWeb](https://github.com/CurvSurf/ARKitDepthFindSurfaceWeb)
 
 
 ### Open Source
