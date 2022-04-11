@@ -14,6 +14,8 @@
 ### Open Source
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale, v2.5
 - [hustvl/YOLOS](https://github.com/hustvl/YOLOS) - You Only Look at One Sequence (NeurIPS 2021)
+- [facebookresearch/dino](https://github.com/facebookresearch/dino) - PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO
+- [facebookresearch/suncet](https://github.com/facebookresearch/suncet) - PAWS: Predicting View-Assignments with Support Samples
 
 
 ### Papers
