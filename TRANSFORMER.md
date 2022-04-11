@@ -8,7 +8,8 @@
 
 
 ### Information
-
+-  Higging Face: [**Transformers**](https://huggingface.co/docs/transformers/main/en/index)
+    - [Vision Transformer (ViT)](https://huggingface.co/docs/transformers/main/en/model_doc/vit)
 
 
 
@@ -20,7 +21,10 @@
 - [google-research/vision_transformer](https://github.com/google-research/vision_transformer)
 
 
+
 ### Papers
+- 2022 [Three things everyone should know about Vision Transformers](https://arxiv.org/pdf/2203.09795.pdf)
+- 2022 [Vision Transformer and Deep Sequence Learning for Human Activity Recognition in Surveillance Videos](https://www.hindawi.com/journals/cin/2022/3454167/)
 - 2022 [Coarse-to-Fine Vision Transformer](https://www.researchgate.net/publication/359106740_Coarse-to-Fine_Vision_Transformer)
 - 2021 [You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection](https://www.arxiv-vanity.com/papers/2106.00666/)
 - 2021 [Glance-and-Gaze Vision Transformer](https://papers.nips.cc/paper/2021/hash/6c524f9d5d7027454a783c841250ba71-Abstract.html)
