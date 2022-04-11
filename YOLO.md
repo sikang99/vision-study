@@ -4,6 +4,7 @@
 ### Articles
 - 2022/03/19 [YOLO: Real-Time Object Detection Explained](https://www.v7labs.com/blog/yolo-object-detection)
 - 2022/03/05 [A Simple Guide to YOLO and SSD](https://medium.com/mlearning-ai/a-simple-guide-to-yolo-and-ssd-3172a0e876f)
+- 2021/09/16 [Object Detection with YOLO: Hands-on Tutorial](https://neptune.ai/blog/object-detection-with-yolo-hands-on-tutorial)
 - 2021/06/07 [Your Comprehensive Guide to the YOLO Family of Models](https://blog.roboflow.com/guide-to-yolo-models/)
 
 
