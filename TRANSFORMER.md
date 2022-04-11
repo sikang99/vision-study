@@ -19,7 +19,8 @@
 - [facebookresearch/dino](https://github.com/facebookresearch/dino) - PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO
 - [facebookresearch/suncet](https://github.com/facebookresearch/suncet) - PAWS: Predicting View-Assignments with Support Samples
 - [google-research/vision_transformer](https://github.com/google-research/vision_transformer)
-
+- [jacobgil/pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) - Many Class Activation Map methods implemented in Pytorch for CNNs and Vision Transformers.
+- [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
 
 
 ### Papers
@@ -28,4 +29,5 @@
 - 2022 [Coarse-to-Fine Vision Transformer](https://www.researchgate.net/publication/359106740_Coarse-to-Fine_Vision_Transformer)
 - 2021 [You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection](https://www.arxiv-vanity.com/papers/2106.00666/)
 - 2021 [Glance-and-Gaze Vision Transformer](https://papers.nips.cc/paper/2021/hash/6c524f9d5d7027454a783c841250ba71-Abstract.html)
+- 2021 [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030)
 
