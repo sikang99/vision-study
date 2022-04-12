@@ -1,21 +1,30 @@
 ## YOLO (You Only Look Once)
 
-### History
-- YOLO : 2016
-- YOLOv3 : 2018
-- YOLOv4 : 2020
-- YOLOv5
+### Models
+- YOLO v1: 2016
+- YOLO v2 : 2017
+- YOLO v3 : 2018
+- YOLO v4 : 2020
+- YOLO v5 : 2020
 - Complex YOLO
+- YOLO 9000
 - YOLO 3d
-- YOLOX
+- YOLOX : 2021
 - YOLOR (You Only Learn One Representation) : 2021
 - PP-YOLO : 2020
 - PP-YOLOv2 : 2021
 - PP-YOLOE : 2022
+- Ag-YOLO :2021
+
+### Frameworks
+- Darknet
+- PyTorch
+- PaddlePaddle
 
 
 ### Articles
 - 2022/04/05 [Baidu Proposes PP-YOLOE: An Evolved Version of YOLO that Achieves **SOTA** Performance in Object Detection](https://syncedreview.com/2022/04/05/baidu-proposes-pp-yoloe-an-evolved-version-of-yolo-that-achieves-sota-performance-in-object-detection/)
+- 2022/04/04 [Introduction to the YOLO Family](https://pyimagesearch.com/2022/04/04/introduction-to-the-yolo-family/)
 - 2022/03/19 [YOLO: Real-Time Object Detection Explained](https://www.v7labs.com/blog/yolo-object-detection)
 - 2022/03/05 [A Simple Guide to YOLO and SSD](https://medium.com/mlearning-ai/a-simple-guide-to-yolo-and-ssd-3172a0e876f)
 - 2022/03/04 [Yolo Object Detection Tutorial TensorFlow | Complete Guide for Beginners Part #3](https://www.linkedin.com/pulse/yolo-object-detection-tutorial-tensorflow-complete-guide-lisa-karen-2f)
@@ -36,6 +45,8 @@
 - [YOLOv5 Documentation](https://docs.ultralytics.com/quick-start/)
 - [PP-YOLO](https://paperswithcode.com/method/pp-yolo)
 - Deep Learning Bible: [1.2 Milestones in state-of-the-art Object Detection](https://wikidocs.net/163640)
+- [YOLO (You Only Look Once) - AI Research Graph](https://crossminds.ai/graphlist/yolo-you-only-look-once-ai-research-graph-60788b484dd65688f4f51175/)
+
 
 
 ### Open Source
@@ -48,5 +59,6 @@
 
 
 ### Papers
+- 2021 [Ag-YOLO: A Real-Time Low-Cost Detector for Precise Spraying With Case Study of Palms](https://www.frontiersin.org/articles/10.3389/fpls.2021.753603/full)
 - 2021 [PP-YOLOv2: A Practical Object Detector](https://arxiv.org/abs/2104.10419)
-- 2019 [PP-YOLO: An Effective and Efficient Implementation of Object Detector](https://arxiv.org/abs/2007.12099)
+- 2020 [PP-YOLO: An Effective and Efficient Implementation of Object Detector](https://arxiv.org/pdf/2007.12099v3.pdf)

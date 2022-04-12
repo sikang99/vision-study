@@ -24,6 +24,7 @@
 
 
 ### Papers
+- 2022 [PVT v2: Improved baselines with Pyramid Vision Transformer](https://link.springer.com/content/pdf/10.1007/s41095-022-0274-8.pdf)
 - 2022 [Three things everyone should know about Vision Transformers](https://arxiv.org/pdf/2203.09795.pdf)
 - 2022 [Vision Transformer and Deep Sequence Learning for Human Activity Recognition in Surveillance Videos](https://www.hindawi.com/journals/cin/2022/3454167/)
 - 2022 [Coarse-to-Fine Vision Transformer](https://www.researchgate.net/publication/359106740_Coarse-to-Fine_Vision_Transformer)
