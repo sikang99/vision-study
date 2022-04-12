@@ -2,8 +2,9 @@
 
 - ViT : Vision Transformer
 - PVT : Pyramid Vision transformer
-- UNetFormer :
+- UNetFormer (Google) :
 - PaddleViT, PPViT : 
+- MobileViT (Apple) : 
 
 
 ### Articles
@@ -40,6 +41,8 @@
 
 
 ### Papers
+- 2022 [Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection](https://paperswithcode.com/paper/unleashing-vanilla-vision-transformer-with)
+- 2022 [MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer Authors](https://machinelearning.apple.com/research/vision-transformer)
 - 2022 [UNetFormer: A Unified Vision Transformer Model and Pre-Training Framework for 3D Medical Image Segmentation](https://arxiv.org/abs/2204.00631)
 - 2022 [Vision Transformer with Deformable Attention](https://arxiv.org/abs/2201.00520)
 - 2022 [Efficient Self-supervised Vision Transformers for Representation Learning](https://www.microsoft.com/en-us/research/publication/efficient-self-supervised-vision-transformers-for-representation-learning/)
@@ -50,4 +53,5 @@
 - 2021 [You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection](https://www.arxiv-vanity.com/papers/2106.00666/)
 - 2021 [Glance-and-Gaze Vision Transformer](https://papers.nips.cc/paper/2021/hash/6c524f9d5d7027454a783c841250ba71-Abstract.html)
 - 2021 [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030)
+- 2021 [Exploring Plain Vision Transformer Backbones for Object Detection](https://arxiv.org/abs/2203.16527)
 
