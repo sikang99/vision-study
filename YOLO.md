@@ -30,12 +30,14 @@
 - 2022/03/05 [A Simple Guide to YOLO and SSD](https://medium.com/mlearning-ai/a-simple-guide-to-yolo-and-ssd-3172a0e876f)
 - 2022/03/04 [Yolo Object Detection Tutorial TensorFlow | Complete Guide for Beginners Part #3](https://www.linkedin.com/pulse/yolo-object-detection-tutorial-tensorflow-complete-guide-lisa-karen-2f)
 - 2022/02/05 [GreatBarrierReef: YOLO Full Guide: train+infer](https://www.kaggle.com/code/andradaolteanu/greatbarrierreef-yolo-full-guide-train-infer/notebook)
+- 2022/01/08 [YOLO Object Detection using OpenCV and Python to Build a Pedestrian Detector](https://omdena.com/blog/opencv-pedestrian-detector/)
 - 2022/00/00 -----------
 - 2021/12/29 [Performance Analysis: YoloV5 vs YoloR](https://medium.com/towards-artificial-intelligence/performance-analysis-yolov5-vs-yolor-a873001db193)
 - 2021/12/14 [How to Use Yolo v5 Object Detection Algorithm for Custom Object Detection](https://www.analyticsvidhya.com/blog/2021/12/how-to-use-yolo-v5-object-detection-algorithm-for-custom-object-detection-an-example-use-case/)
 - 2021/11/03 [Object Detection Explained: YOLO v3](https://medium.com/mlearning-ai/object-detection-explained-yolo-v3-fdf83cc78d25)
 - 2021/09/16 [Object Detection with YOLO: Hands-on Tutorial](https://neptune.ai/blog/object-detection-with-yolo-hands-on-tutorial)
 - 2021/08/08 [YOLOR – You Only Learn One Representation (What’s new, 2022)](https://viso.ai/deep-learning/yolor/)
+- 2021/08/02 [How to Train YOLOX On a Custom Dataset](https://blog.roboflow.com/how-to-train-yolox-on-a-custom-dataset/)
 - 2021/06/09 TLT Docs » Object Detection » [YOLOv4](https://docs.nvidia.com/metropolis/TLT/tlt-user-guide/text/object_detection/yolo_v4.html)
 - 2021/06/07 [Your Comprehensive Guide to the YOLO Family of Models](https://blog.roboflow.com/guide-to-yolo-models/)
 - 2021/05/11 [PP-YOLO Strikes Again - Record Object Detection at 68.9FPS](https://blog.roboflow.com/pp-yolo-strikes-again/)
@@ -50,6 +52,8 @@
 - Deep Learning Bible: [1.2 Milestones in state-of-the-art Object Detection](https://wikidocs.net/163640)
 - [YOLO (You Only Look Once) - AI Research Graph](https://crossminds.ai/graphlist/yolo-you-only-look-once-ai-research-graph-60788b484dd65688f4f51175/)
 - [High-performance detector YOLOX-X](https://modelplace.ai/models/49)
+- [YOLOv4 on Edge TPU](https://wiki.loliot.net/docs/lang/python/libraries/yolov4/python-yolov4-edge-tpu/)
+- [Day 85 – Real-Time Multi-Object Tracker Using YOLO v5 and Deep Sort Algorithm](https://www.gopichandrakesan.com/day-85-real-time-multi-object-tracker-using-yolo-v5-and-deep-sort-algorithm/)
 
 
 ### Open Source
@@ -61,9 +65,11 @@
 - [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)
 - [irafm-ai/poly-yolo](https://gitlab.com/irafm-ai/poly-yolo)
 - [Taeyoung96/Yolo-to-COCO-format-converter](https://github.com/Taeyoung96/Yolo-to-COCO-format-converter)
+- [sraditya12345/yolo-object-detection-using-python](https://jovian.ai/sraditya12345/yolo-object-detection-using-python)
 
 
 ### Papers
+- 2022 [A lightweight and accurate YOLO-like network for small target detection in Aerial Imagery](https://deepai.org/publication/a-lightweight-and-accurate-yolo-like-network-for-small-target-detection-in-aerial-imagery)
 - 2022 [PP-YOLOE: An evolved version of YOLO](https://arxiv.org/pdf/2203.16250.pdf) - SOTA
 - 2022 [A Review of Yolo Algorithm Developments](https://www.sciencedirect.com/science/article/pii/S1877050922001363)
 - 2021 [Ag-YOLO: A Real-Time Low-Cost Detector for Precise Spraying With Case Study of Palms](https://www.frontiersin.org/articles/10.3389/fpls.2021.753603/full)
