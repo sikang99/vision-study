@@ -56,6 +56,12 @@
 - [Day 85 – Real-Time Multi-Object Tracker Using YOLO v5 and Deep Sort Algorithm](https://www.gopichandrakesan.com/day-85-real-time-multi-object-tracker-using-yolo-v5-and-deep-sort-algorithm/)
 
 
+
+### Videos
+- 2022 [Understanding YOLOX (State of art) and its Code Structure - YoloX Object Detection Model Deployment](https://www.youtube.com/watch?v=89Su7WeP3Gg)
+
+
+
 ### Open Source
 - [aryan0141/RealTime_Detection-And-Classification-of-TrafficSigns](https://github.com/aryan0141/RealTime_Detection-And-Classification-of-TrafficSigns) - Real-Time Detection And Classification of Traffic Signs using YOLOv5s object detection algorithm. [AI PROJECT]
 - [doleron/yolov4-opencv-cpp-python](https://github.com/doleron/yolov4-opencv-cpp-python) - Example of using YOLO v4 with OpenCV, C++ and Python
@@ -66,6 +72,8 @@
 - [irafm-ai/poly-yolo](https://gitlab.com/irafm-ai/poly-yolo)
 - [Taeyoung96/Yolo-to-COCO-format-converter](https://github.com/Taeyoung96/Yolo-to-COCO-format-converter)
 - [sraditya12345/yolo-object-detection-using-python](https://jovian.ai/sraditya12345/yolo-object-detection-using-python)
+- [AntonMu/TrainYourOwnYOLO](https://github.com/AntonMu/TrainYourOwnYOLO) - Train a state-of-the-art yolov3 object detector from scratch!
+
 
 
 ### Papers

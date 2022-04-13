@@ -5,11 +5,15 @@
 - UNetFormer (Google) :
 - PaddleViT, PPViT : 
 - MobileViT (Apple) : 
+- FFVT : Feature Fusion ViT
+- MBT (Google) : Multimodal Bottleneck Transformer
+- MaxViT : Multi-Axis ViT
 
 
 ### Articles
 - 2022/04/07 [Kaiming He’s MetaAI Team Proposes ViTDet: A Plain Vision Transformer Backbone Competitive With Hierarchical Backbones on Object Detection](https://syncedreview.com/2022/04/07/kaiming-hes-metaai-team-proposes-vitdet-a-plain-vision-transformer-backbone-competitive-with-hierarchical-backbones-on-object-detection/)
 - 2022/04/06 [An Overview of Swin Transformer](https://www.section.io/engineering-education/an-overview-of-swin-transformer/)
+- 2022/03/15 [Multimodal Bottleneck Transformer (MBT): A New Model for Modality Fusion](https://ai.googleblog.com/2022/03/multimodal-bottleneck-transformer-mbt.html)
 - 2022/00/00 ----------
 - 2021/12/07 [Improving Vision Transformer Efficiency and Accuracy by Learning to Tokenize](https://ai.googleblog.com/2021/12/improving-vision-transformer-efficiency.html)
 - 2021/04/04 [Coding the Vision Transformer in PyTorch, Part 1: Bird’s-Eye View](https://medium.datadriveninvestor.com/coding-the-vision-transformer-in-pytorch-part-1-birds-eye-view-1c0a79d8732e)
@@ -25,6 +29,7 @@
 - [PaddleViT](https://www.opensourceagenda.com/projects/paddlevit)
 
 ### Open Source
+- [dk-liang/Awesome-Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer) - Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale, v2.5
 - [hustvl/YOLOS](https://github.com/hustvl/YOLOS) - You Only Look at One Sequence (NeurIPS 2021)
 - [facebookresearch/dino](https://github.com/facebookresearch/dino) - PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO
@@ -37,10 +42,16 @@
 - [LeapLabTHU/DAT](https://github.com/LeapLabTHU/DAT) - Repository of Vision Transformer with Deformable Attention
 - [taki0112/vit-tensorflow](https://github.com/taki0112/vit-tensorflow) - Vision Transformer Cookbook with Tensorflow
 - [google-research/scenic](https://github.com/google-research/scenic) - Scenic: A Jax Library for Computer Vision Research and Beyond
-
+- [Markin-Wang/FFVT](https://github.com/Markin-Wang/FFVT) - The official PyTorch implementation of Feature Fusion Vision Transformer for Fine-Grained Visual Categorization (BMVC 2021)
 
 
 ### Papers
+- arXiv papers for [Vision Transformer](https://arxiv.org/search/?query=vision+transformer&searchtype=all&source=header) [Survey](https://arxiv.org/search/?query=vision+transformer+survey&searchtype=all&abstracts=show&order=-announced_date_first&size=50)
+- 2022 [Video Transformers: A Survey](https://arxiv.org/abs/2201.05991)
+- 2022 [Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work](https://arxiv.org/abs/2203.01536)
+- 2022 [Evaluating Vision Transformer Methods for Deep Reinforcement Learning from Pixels](https://arxiv.org/abs/2204.04905)
+- 2022 [Lite Vision Transformer with Enhanced Self-Attention](https://arxiv.org/abs/2112.10809)
+- 2022 [Comparing Vision Transformers and Convolutional Nets for Safety Critical Systems](http://ceur-ws.org/Vol-3087/paper_31.pdf)
 - 2022 [Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection](https://paperswithcode.com/paper/unleashing-vanilla-vision-transformer-with)
 - 2022 [MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer Authors](https://machinelearning.apple.com/research/vision-transformer)
 - 2022 [UNetFormer: A Unified Vision Transformer Model and Pre-Training Framework for 3D Medical Image Segmentation](https://arxiv.org/abs/2204.00631)
