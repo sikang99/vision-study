@@ -23,6 +23,7 @@ Open Source Project, (Windows, Linux, MacOS)
 - [Point Cloud Library](https://pcl.readthedocs.io/projects/tutorials/en/latest/index.html)
 - [Open3D](http://www.open3d.org/docs/release/introduction.html)
 - [Pickit3D](https://docs.pickit3d.com/en/latest/documentation/configuration/index.html)
+- ZiVID: [Point Cloud Structure and Output Formats](https://support.zivid.com/latest/reference-articles/point-cloud-structure-and-output-formats.html)
 - [The next gen LiDAR Point Cloud Viewer](https://www.cyclomedia.com/en/resources/news/next-gen-lidar-point-cloud-viewer)
 - [FlyVast](https://flyvast.com/) - Artificial Expertise for 3D Point Clouds
 - [WebGL Pointcloud Viewer](https://sites.icmc.usp.br/fosorio/webgl/webgl-data.html)
@@ -34,6 +35,9 @@ Open Source Project, (Windows, Linux, MacOS)
 - [Point Cloud Studio](https://pointcloud.studio/)
 - LIDAR News: [Point Cloud](https://lidarnews.com/tag/point-cloud/)
 - [LIDAR Point Cloud Sources](https://www.usna.edu/Users/oceano/pguth/md_help/html/lidar_pt_clouds.htm)
+- polaran3d: [**Point Cloud**](https://polaron3d.com/Hub/point-clouds/)
+- [LiDAR Visualization](https://web.cs.ucdavis.edu/~okreylos/ResDev/LiDAR/index.html)
+
 
 
 ### Open Source
