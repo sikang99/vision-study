@@ -73,7 +73,7 @@
 - [Taeyoung96/Yolo-to-COCO-format-converter](https://github.com/Taeyoung96/Yolo-to-COCO-format-converter)
 - [sraditya12345/yolo-object-detection-using-python](https://jovian.ai/sraditya12345/yolo-object-detection-using-python)
 - [AntonMu/TrainYourOwnYOLO](https://github.com/AntonMu/TrainYourOwnYOLO) - Train a state-of-the-art yolov3 object detector from scratch!
-
+- [WongKinYiu/yolor](https://github.com/WongKinYiu/yolor) - implementation of paper - You Only Learn One Representation: Unified Network for Multiple Tasks
 
 
 ### Papers
@@ -82,4 +82,5 @@
 - 2022 [A Review of Yolo Algorithm Developments](https://www.sciencedirect.com/science/article/pii/S1877050922001363)
 - 2021 [Ag-YOLO: A Real-Time Low-Cost Detector for Precise Spraying With Case Study of Palms](https://www.frontiersin.org/articles/10.3389/fpls.2021.753603/full)
 - 2021 [PP-YOLOv2: A Practical Object Detector](https://arxiv.org/abs/2104.10419)
+- 2021 [You Only Learn One Representation: Unified Network for Multiple Tasks](https://arxiv.org/abs/2105.04206)
 - 2020 [PP-YOLO: An Effective and Efficient Implementation of Object Detector](https://arxiv.org/pdf/2007.12099v3.pdf)

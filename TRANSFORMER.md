@@ -28,6 +28,7 @@
 - [Vision Transformer - Pytorch](https://curatedpython.com/p/vision-transformer-lucidrains-vit-pytorch/index.html)
 - [PaddleViT](https://www.opensourceagenda.com/projects/paddlevit)
 
+
 ### Open Source
 - [dk-liang/Awesome-Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer) - Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale, v2.5
@@ -43,10 +44,13 @@
 - [taki0112/vit-tensorflow](https://github.com/taki0112/vit-tensorflow) - Vision Transformer Cookbook with Tensorflow
 - [google-research/scenic](https://github.com/google-research/scenic) - Scenic: A Jax Library for Computer Vision Research and Beyond
 - [Markin-Wang/FFVT](https://github.com/Markin-Wang/FFVT) - The official PyTorch implementation of Feature Fusion Vision Transformer for Fine-Grained Visual Categorization (BMVC 2021)
+- [NVlabs/GroupViT](https://github.com/NVlabs/GroupViT) - Official PyTorch implementation of GroupViT: Semantic Segmentation Emerges from Text Supervision, CVPR 2022.
+
 
 
 ### Papers
 - arXiv papers for [Vision Transformer](https://arxiv.org/search/?query=vision+transformer&searchtype=all&source=header) [Survey](https://arxiv.org/search/?query=vision+transformer+survey&searchtype=all&abstracts=show&order=-announced_date_first&size=50)
+- 2020 [GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/abs/2202.11094)
 - 2022 [Video Transformers: A Survey](https://arxiv.org/abs/2201.05991)
 - 2022 [Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work](https://arxiv.org/abs/2203.01536)
 - 2022 [Evaluating Vision Transformer Methods for Deep Reinforcement Learning from Pixels](https://arxiv.org/abs/2204.04905)
