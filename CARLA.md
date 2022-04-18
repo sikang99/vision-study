@@ -9,6 +9,7 @@
 ### Information
 - [Deep Learning with OpenCV DNN Module: A Definitive Guide](https://learnopencv.com/deep-learning-with-opencvs-dnn-module-a-definitive-guide/)
 - [CARLA](http://carla.org/) - Open-source simulator for autonomous driving research
+    - [CARLA Simulator](https://carla.readthedocs.io/en/latest/start_quickstart/)
 
 
 ### Open Source
