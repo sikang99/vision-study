@@ -63,6 +63,7 @@
 
 
 ### Open Source
+- [GitPlanet](https://gitplanet.com): [YOLO](https://gitplanet.com/search/all/yolo)
 - [aryan0141/RealTime_Detection-And-Classification-of-TrafficSigns](https://github.com/aryan0141/RealTime_Detection-And-Classification-of-TrafficSigns) - Real-Time Detection And Classification of Traffic Signs using YOLOv5s object detection algorithm. [AI PROJECT]
 - [doleron/yolov4-opencv-cpp-python](https://github.com/doleron/yolov4-opencv-cpp-python) - Example of using YOLO v4 with OpenCV, C++ and Python
 - [ultralytics/JSON2YOLO](https://github.com/ultralytics/JSON2YOLO) - Convert JSON annotations into YOLO format
@@ -74,6 +75,12 @@
 - [sraditya12345/yolo-object-detection-using-python](https://jovian.ai/sraditya12345/yolo-object-detection-using-python)
 - [AntonMu/TrainYourOwnYOLO](https://github.com/AntonMu/TrainYourOwnYOLO) - Train a state-of-the-art yolov3 object detector from scratch!
 - [WongKinYiu/yolor](https://github.com/WongKinYiu/yolor) - implementation of paper - You Only Learn One Representation: Unified Network for Multiple Tasks
+- [dog-qiuqiu/MobileNet-Yolo](https://github.com/dog-qiuqiu/MobileNet-Yolo) - MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops 420KB
+- [eric612/MobileNet-YOLO](https://github.com/eric612/MobileNet-YOLO) - A caffe implementation of MobileNet-YOLO detection network
+- [Adamdad/keras-YOLOv3-mobilenet](https://github.com/Adamdad/keras-YOLOv3-mobilenet) - I transfer the backend of yolov3 into Mobilenetv1，VGG16，ResNet101 and ResNeXt101
+- [developer0hye/Yolo_Label](https://github.com/developer0hye/Yolo_Label) - GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2
+- [reu2018DL/YOLO-LITE](https://github.com/reu2018DL/YOLO-LITE) - All the trained models used while developing YOLO-LITE
+
 
 
 ### Papers
