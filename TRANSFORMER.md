@@ -8,6 +8,8 @@
 - FFVT : Feature Fusion ViT
 - MBT (Google) : Multimodal Bottleneck Transformer
 - MaxViT : Multi-Axis ViT
+- DeiT III : 
+- DaViT: Dual Attention ViT
 
 
 ### Articles
@@ -50,7 +52,9 @@
 
 ### Papers
 - arXiv papers for [Vision Transformer](https://arxiv.org/search/?query=vision+transformer&searchtype=all&source=header) [Survey](https://arxiv.org/search/?query=vision+transformer+survey&searchtype=all&abstracts=show&order=-announced_date_first&size=50)
-- 2020 [GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/abs/2202.11094)
+- 2022 [DaViT: Dual Attention Vision Transformers](https://arxiv.org/abs/2204.03645v1)
+- 2022 [DeiT III: Revenge of the ViT](https://deepai.org/publication/deit-iii-revenge-of-the-vit)
+- 2022 [ViTOL: Vision Transformer for Weakly Supervised Object Localization](https://deepai.org/publication/vitol-vision-transformer-for-weakly-supervised-object-localization)
 - 2022 [Video Transformers: A Survey](https://arxiv.org/abs/2201.05991)
 - 2022 [Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work](https://arxiv.org/abs/2203.01536)
 - 2022 [Evaluating Vision Transformer Methods for Deep Reinforcement Learning from Pixels](https://arxiv.org/abs/2204.04905)
@@ -69,4 +73,4 @@
 - 2021 [Glance-and-Gaze Vision Transformer](https://papers.nips.cc/paper/2021/hash/6c524f9d5d7027454a783c841250ba71-Abstract.html)
 - 2021 [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030)
 - 2021 [Exploring Plain Vision Transformer Backbones for Object Detection](https://arxiv.org/abs/2203.16527)
-
+- 2020 [GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/abs/2202.11094)
