@@ -17,6 +17,7 @@
 - Ag-YOLO : 2021
 - Poly-YOLO 
 
+
 ### Frameworks
 - Darknet
 - PyTorch
@@ -64,6 +65,7 @@
 
 ### Open Source
 - [GitPlanet](https://gitplanet.com): [YOLO](https://gitplanet.com/search/all/yolo)
+- [Yolo5 Alternatives](https://www.libhunt.com/r/yolov5)
 - [aryan0141/RealTime_Detection-And-Classification-of-TrafficSigns](https://github.com/aryan0141/RealTime_Detection-And-Classification-of-TrafficSigns) - Real-Time Detection And Classification of Traffic Signs using YOLOv5s object detection algorithm. [AI PROJECT]
 - [doleron/yolov4-opencv-cpp-python](https://github.com/doleron/yolov4-opencv-cpp-python) - Example of using YOLO v4 with OpenCV, C++ and Python
 - [ultralytics/JSON2YOLO](https://github.com/ultralytics/JSON2YOLO) - Convert JSON annotations into YOLO format
@@ -84,6 +86,8 @@
 
 
 ### Papers
+- 2022 [A lightweight and accurate YOLO-like network for small target detection in Aerial Imagery](https://arxiv.org/pdf/2204.02325.pdf)
+- 2022 [ETL-YOLO v4: A face mask detection algorithm in era of COVID-19 pandemic](https://pubmed.ncbi.nlm.nih.gov/35411120/)
 - 2022 [A lightweight and accurate YOLO-like network for small target detection in Aerial Imagery](https://deepai.org/publication/a-lightweight-and-accurate-yolo-like-network-for-small-target-detection-in-aerial-imagery)
 - 2022 [PP-YOLOE: An evolved version of YOLO](https://arxiv.org/pdf/2203.16250.pdf) - SOTA
 - 2022 [A Review of Yolo Algorithm Developments](https://www.sciencedirect.com/science/article/pii/S1877050922001363)

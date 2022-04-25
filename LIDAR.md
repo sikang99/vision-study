@@ -1,6 +1,14 @@
 ## Lidar & Point Cloud
 
 
+### Sensors
+- Camera
+- Radar
+- Lidar
+    - ToF : Velopdync
+    - frequency-modulated continuous-wave (FMCW): chip-scale, Insight Lidar
+
+
 ### Articles
 - 2022/03/05 [A Quick Guide to LiDAR: Part 1- Theory](https://medium.com/mlearning-ai/a-quick-guide-to-lidar-part-1-theory-7c8ff48af0b9)
 - 2022/02/16 [5 Best Free LiDAR Software Tools and Viewers](https://gisgeography.com/lidar-software-tools/)
@@ -8,9 +16,9 @@
 - 2021/12/12 [LiDAR vs Photogrammetry: Which is better for point cloud creation?](https://www.mosaic51.com/technology/lidar-vs-photogrammetry-which-is-better-for-point-cloud-creation/)
 - 2021/02/11 [LiDAR 3D Apps – Laser Scanning with a Mobile Phone](https://3dwithus.com/lidar-3d-apps-laser-scanning-with-smartphone-iphone)
 - 2021/01/22 [LiDAR on a phone – a new way to capture 3D data](https://resource.esriuk.com/blog/lidar-on-a-phone-a-new-way-to-capture-3d-data/)
+- 2021/03/24 [Autonomous vehicle technology shifts to a more realistic gear](https://www.laserfocusworld.com/test-measurement/article/14197547/autonomous-vehicle-technology-shifts-to-a-more-realistic-gear)
 - 2019/04/01 [Point Clouds – 4: A cloud of software](https://blog.bricsys.com/free-point-cloud-software/)
 - 2016/03/10 [Web-based Point Cloud Viewing](https://scanable.com/web-based-point-cloud-viewing/)
-
 
 
 
