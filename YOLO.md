@@ -16,7 +16,7 @@
 - PP-YOLOE : 2022
 - Ag-YOLO : 2021
 - Poly-YOLO 
-
+- YOLACT (You Only Look At CoefficienTs) : 2021
 
 ### Frameworks
 - Darknet
@@ -41,7 +41,9 @@
 - 2021/08/02 [How to Train YOLOX On a Custom Dataset](https://blog.roboflow.com/how-to-train-yolox-on-a-custom-dataset/)
 - 2021/06/09 TLT Docs » Object Detection » [YOLOv4](https://docs.nvidia.com/metropolis/TLT/tlt-user-guide/text/object_detection/yolo_v4.html)
 - 2021/06/07 [Your Comprehensive Guide to the YOLO Family of Models](https://blog.roboflow.com/guide-to-yolo-models/)
+- 2021/05/30 [How to train YOLACT: Real-time instance segmentation with Custom Dataset](https://lahrumesh28.medium.com/train-yolact-real-time-instance-segmentation-with-custom-dataset-d3556d5b746d)
 - 2021/05/11 [PP-YOLO Strikes Again - Record Object Detection at 68.9FPS](https://blog.roboflow.com/pp-yolo-strikes-again/)
+- 2021/00/00 -----------
 - 2020/05/26 [YOLOv4 on Jetson Nano](https://medium.com/@thundo/yolov4-on-jetson-nano-672c1d38aed2)
 
 
@@ -82,7 +84,7 @@
 - [Adamdad/keras-YOLOv3-mobilenet](https://github.com/Adamdad/keras-YOLOv3-mobilenet) - I transfer the backend of yolov3 into Mobilenetv1，VGG16，ResNet101 and ResNeXt101
 - [developer0hye/Yolo_Label](https://github.com/developer0hye/Yolo_Label) - GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2
 - [reu2018DL/YOLO-LITE](https://github.com/reu2018DL/YOLO-LITE) - All the trained models used while developing YOLO-LITE
-
+- [dbolya/yolact](https://github.com/dbolya/yolact) - A simple, fully convolutional model for real-time instance segmentation
 
 
 ### Papers
@@ -95,3 +97,4 @@
 - 2021 [PP-YOLOv2: A Practical Object Detector](https://arxiv.org/abs/2104.10419)
 - 2021 [You Only Learn One Representation: Unified Network for Multiple Tasks](https://arxiv.org/abs/2105.04206)
 - 2020 [PP-YOLO: An Effective and Efficient Implementation of Object Detector](https://arxiv.org/pdf/2007.12099v3.pdf)
+- 2019 [YOLACT: Real-time Instance Segmentation](https://arxiv.org/abs/1904.02689)
