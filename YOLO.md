@@ -85,9 +85,13 @@
 - [developer0hye/Yolo_Label](https://github.com/developer0hye/Yolo_Label) - GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2
 - [reu2018DL/YOLO-LITE](https://github.com/reu2018DL/YOLO-LITE) - All the trained models used while developing YOLO-LITE
 - [dbolya/yolact](https://github.com/dbolya/yolact) - A simple, fully convolutional model for real-time instance segmentation
+- [yancie-yjr/StreamYOLO](https://github.com/yancie-yjr/StreamYOLO) - Real-time Object Detection for Streaming Perception, CVPR 2022
+- [mtli/sAP](https://github.com/mtli/sAP) - Code for Towards Streaming Perception (ECCV 2020)
+
 
 
 ### Papers
+- 2022 [Real-time Object Detection for Streaming Perception](https://arxiv.org/abs/2203.12338)
 - 2022 [A lightweight and accurate YOLO-like network for small target detection in Aerial Imagery](https://arxiv.org/pdf/2204.02325.pdf)
 - 2022 [ETL-YOLO v4: A face mask detection algorithm in era of COVID-19 pandemic](https://pubmed.ncbi.nlm.nih.gov/35411120/)
 - 2022 [A lightweight and accurate YOLO-like network for small target detection in Aerial Imagery](https://deepai.org/publication/a-lightweight-and-accurate-yolo-like-network-for-small-target-detection-in-aerial-imagery)
