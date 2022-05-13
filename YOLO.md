@@ -66,6 +66,7 @@
 
 
 ### Open Source
+- [srebroa/awesome-yolo](https://github.com/srebroa/awesome-yolo) 
 - [GitPlanet](https://gitplanet.com): [YOLO](https://gitplanet.com/search/all/yolo)
 - [Yolo5 Alternatives](https://www.libhunt.com/r/yolov5)
 - [aryan0141/RealTime_Detection-And-Classification-of-TrafficSigns](https://github.com/aryan0141/RealTime_Detection-And-Classification-of-TrafficSigns) - Real-Time Detection And Classification of Traffic Signs using YOLOv5s object detection algorithm. [AI PROJECT]
