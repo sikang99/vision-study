@@ -26,6 +26,7 @@
 
 ### Articles
 - 2022/05/10 [Is PP-YOLOE Better than YOLOv5?](https://www.linkedin.com/pulse/pp-yoloe-better-than-yolov5-ritesh-kanjee/)
+- 2202/04/12 [Object Detection using YOLOv5 and OpenCV DNN in C++ and Python](https://learnopencv.com/object-detection-using-yolov5-and-opencv-dnn-in-c-and-python/)
 - 2022/04/05 [Baidu Proposes PP-YOLOE: An Evolved Version of YOLO that Achieves **SOTA** Performance in Object Detection](https://syncedreview.com/2022/04/05/baidu-proposes-pp-yoloe-an-evolved-version-of-yolo-that-achieves-sota-performance-in-object-detection/)
 - 2022/04/04 [Introduction to the YOLO Family](https://pyimagesearch.com/2022/04/04/introduction-to-the-yolo-family/)
 - 2022/03/19 [YOLO: Real-Time Object Detection Explained](https://www.v7labs.com/blog/yolo-object-detection)
