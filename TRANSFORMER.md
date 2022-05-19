@@ -10,6 +10,7 @@
 - MaxViT : Multi-Axis ViT
 - DeiT III : 
 - DaViT: Dual Attention ViT
+- TNT : Transformer in Transformer
 
 
 ### Articles
@@ -47,11 +48,14 @@
 - [google-research/scenic](https://github.com/google-research/scenic) - Scenic: A Jax Library for Computer Vision Research and Beyond
 - [Markin-Wang/FFVT](https://github.com/Markin-Wang/FFVT) - The official PyTorch implementation of Feature Fusion Vision Transformer for Fine-Grained Visual Categorization (BMVC 2021)
 - [NVlabs/GroupViT](https://github.com/NVlabs/GroupViT) - Official PyTorch implementation of GroupViT: Semantic Segmentation Emerges from Text Supervision, CVPR 2022.
+- [lucidrains/transformer-in-transformer](https://github.com/lucidrains/transformer-in-transformer) - Implementation of Transformer in Transformer, pixel level attention paired with patch level attention for image classification, in Pytorch
 
 
 
 ### Papers
 - arXiv papers for [Vision Transformer](https://arxiv.org/search/?query=vision+transformer&searchtype=all&source=header) [Survey](https://arxiv.org/search/?query=vision+transformer+survey&searchtype=all&abstracts=show&order=-announced_date_first&size=50)
+- 2022 [PyramidTNT: Improved Transformer-in-Transformer Baselines with Pyramid Architecture](https://arxiv.org/abs/2201.00978)
+- 2022 [Transformer in Transformer](https://arxiv.org/abs/2103.00112) - PyTorch
 - 2022 [DaViT: Dual Attention Vision Transformers](https://arxiv.org/abs/2204.03645v1)
 - 2022 [DeiT III: Revenge of the ViT](https://deepai.org/publication/deit-iii-revenge-of-the-vit)
 - 2022 [ViTOL: Vision Transformer for Weakly Supervised Object Localization](https://deepai.org/publication/vitol-vision-transformer-for-weakly-supervised-object-localization)
