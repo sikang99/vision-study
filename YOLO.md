@@ -6,6 +6,7 @@
 - YOLO v3 : 2018
 - YOLO v4 : 2020
 - YOLO v5 : 2020
+- YOLO v7 : 2022
 - Complex YOLO
 - YOLO 9000
 - YOLO 3d
@@ -30,6 +31,7 @@
 - 2022/04/05 [Baidu Proposes PP-YOLOE: An Evolved Version of YOLO that Achieves **SOTA** Performance in Object Detection](https://syncedreview.com/2022/04/05/baidu-proposes-pp-yoloe-an-evolved-version-of-yolo-that-achieves-sota-performance-in-object-detection/)
 - 2022/04/04 [Introduction to the YOLO Family](https://pyimagesearch.com/2022/04/04/introduction-to-the-yolo-family/)
 - 2022/03/19 [YOLO: Real-Time Object Detection Explained](https://www.v7labs.com/blog/yolo-object-detection)
+- 2022/03/14 [The practical guide for Object Detection with YOLOv5 algorithm](https://towardsdatascience.com/the-practical-guide-for-object-detection-with-yolov5-algorithm-74c04aac4843)
 - 2022/03/05 [A Simple Guide to YOLO and SSD](https://medium.com/mlearning-ai/a-simple-guide-to-yolo-and-ssd-3172a0e876f)
 - 2022/03/04 [Yolo Object Detection Tutorial TensorFlow | Complete Guide for Beginners Part #3](https://www.linkedin.com/pulse/yolo-object-detection-tutorial-tensorflow-complete-guide-lisa-karen-2f)
 - 2022/02/05 [GreatBarrierReef: YOLO Full Guide: train+infer](https://www.kaggle.com/code/andradaolteanu/greatbarrierreef-yolo-full-guide-train-infer/notebook)
@@ -59,7 +61,7 @@
 - [High-performance detector YOLOX-X](https://modelplace.ai/models/49)
 - [YOLOv4 on Edge TPU](https://wiki.loliot.net/docs/lang/python/libraries/yolov4/python-yolov4-edge-tpu/)
 - [Day 85 – Real-Time Multi-Object Tracker Using YOLO v5 and Deep Sort Algorithm](https://www.gopichandrakesan.com/day-85-real-time-multi-object-tracker-using-yolo-v5-and-deep-sort-algorithm/)
-
+- [YOLOv7: The Most Powerful Object Detection Algorithm (2022 Guide)](https://viso.ai/deep-learning/yolov7-guide/)
 
 
 ### Videos
@@ -90,7 +92,7 @@
 - [dbolya/yolact](https://github.com/dbolya/yolact) - A simple, fully convolutional model for real-time instance segmentation
 - [yancie-yjr/StreamYOLO](https://github.com/yancie-yjr/StreamYOLO) - Real-time Object Detection for Streaming Perception, CVPR 2022
 - [mtli/sAP](https://github.com/mtli/sAP) - Code for Towards Streaming Perception (ECCV 2020)
-
+- [jinfagang/yolov7_d2](https://github.com/jinfagang/yolov7_d2) - 🔥🔥🔥🔥 Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration!
 
 
 ### Papers
