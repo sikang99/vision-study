@@ -94,6 +94,8 @@
 - [mtli/sAP](https://github.com/mtli/sAP) - Code for Towards Streaming Perception (ECCV 2020)
 - [jinfagang/yolov7_d2](https://github.com/jinfagang/yolov7_d2) - 🔥🔥🔥🔥 Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration!
 - [Kazuhito00/yolox-motpy-sample](https://github.com/Kazuhito00/yolox-motpy-sample) - YOLOXとmotpyを用いたMOT(Multiple Object Tracking)のPythonサンプル
+- [nemonameless/PaddleDetection_YOLOSeries](https://github.com/nemonameless/PaddleDetection_YOLOSeries) - 🚀🚀🚀 YOLO Series of PaddleDetection implementation, PPYOLOE, YOLOX, YOLOv7, YOLOv5, MT-YOLOv6 and so on
+
 
 
 ### Papers
