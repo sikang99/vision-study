@@ -93,9 +93,11 @@
 - [yancie-yjr/StreamYOLO](https://github.com/yancie-yjr/StreamYOLO) - Real-time Object Detection for Streaming Perception, CVPR 2022
 - [mtli/sAP](https://github.com/mtli/sAP) - Code for Towards Streaming Perception (ECCV 2020)
 - [jinfagang/yolov7_d2](https://github.com/jinfagang/yolov7_d2) - 🔥🔥🔥🔥 Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration!
+- [Kazuhito00/yolox-motpy-sample](https://github.com/Kazuhito00/yolox-motpy-sample) - YOLOXとmotpyを用いたMOT(Multiple Object Tracking)のPythonサンプル
 
 
 ### Papers
+- 2022 [Video object tracking based on YOLOv7 and DeepSORT](https://arxiv.org/abs/2207.12202v1)
 - 2022 [Real-time Object Detection for Streaming Perception](https://arxiv.org/abs/2203.12338)
 - 2022 [A lightweight and accurate YOLO-like network for small target detection in Aerial Imagery](https://arxiv.org/pdf/2204.02325.pdf)
 - 2022 [ETL-YOLO v4: A face mask detection algorithm in era of COVID-19 pandemic](https://pubmed.ncbi.nlm.nih.gov/35411120/)
